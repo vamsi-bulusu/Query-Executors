@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -O3  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/nested_loop_join_test.dir/test/nested_loop_join_test.cpp.o -o nested_loop_join_test  src/libEXECUTOR.a 

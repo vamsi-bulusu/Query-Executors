@@ -1,0 +1,12 @@
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/CMakeFiles/seq_scan_test.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/CMakeFiles/filter_seq_scan_test.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/CMakeFiles/nested_loop_join_test.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/CMakeFiles/hash_join_test.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/CMakeFiles/complex_test.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/CMakeFiles/another_complex_test.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/CMakeFiles/aggregation_test.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/CMakeFiles/edit_cache.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/CMakeFiles/rebuild_cache.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/src/CMakeFiles/EXECUTOR.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/src/CMakeFiles/edit_cache.dir
+/Users/vamsi/Workspace/masters/Fall 2023/DBMS/CS539-Fall23-p2/build/src/CMakeFiles/rebuild_cache.dir
