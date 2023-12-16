@@ -81,19 +81,3 @@ We just provide simple sample test cases in the testing file. We will use more c
 $ cd build
 $ ./seq_scan_test
 ```
-
-## Submission
-
-Compress the whole project folder into a zip file and submit it. Include all the cmake files.
-
-## Grading Rubric
-
-Each project submission will be graded based on the following criteria:
-
-Does the submission successfully execute all of the test cases and produce the correct answer?
-Does the submission execute without any memory leaks?
-Does the submission follow the code formatting and style policies?
-
-Note that we will use additional test cases that are more complex and go beyond the sample test cases that we provide you.
-
-**WARNING: All of the code for this project must be your own. You may not copy source code from other students or other sources that you find on the web. Plagiarism will not be tolerated. See [Rutgers University Academic Integrity Policy](http://nbacademicintegrity.rutgers.edu/) for additional information.**
